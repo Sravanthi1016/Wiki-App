@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+   /* max-width: 600px;*/
+    width:50%;
+    border: 1px solid black;
+    margin-left:400px;
+    /*margin:auto;*/
+}
+header{
+
+border-bottom: 1px solid gray ;
+padding:10px;
+}
+
+nav{
+    padding:10px;
+    border-bottom: 1px soild gray;
+}
+
+nav span{
+    margin-left:10px;
+}
+
+nav span:first-child{
+    border-bottom: 2px solid black;
+
+}
+
+.image-content{
+    float: right;
+    margin:10px;
+}
+
+.para{
+    padding:20px;
+}
+
+.para p{
+    margin-top:20px;
+    margin-bottom:20px;
+}
